@@ -1,0 +1,8 @@
+._*
+.DS_Store
+*.o
+roborobo3_iar_2019/*
+!roborobo3_iar_2019/prj
+roborobo3_iar_2019/prj/*
+!roborobo3_iar_2019/prj/TME*
+
