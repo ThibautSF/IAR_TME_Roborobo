@@ -4,6 +4,7 @@
 Download and extract (without deleting already existing files)
 ```
 git clone https://github.com/ThibautSF/IAR_TME_Roborobo.git
+cd IAR_TME_Roborobo/
 tar xvkfz roborobo3_iar_2019rc1.tgz
 ```
 
